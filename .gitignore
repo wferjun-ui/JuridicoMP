@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+juridico_mp.db
+config.json
